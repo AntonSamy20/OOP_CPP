@@ -28,7 +28,7 @@ and displayStudentInfo() to print the student's details, including their GPA.
 Implement error checking in setGrade() to ensure that the grade is within a valid range
 (0.0 to 4.0).  -----> Student
 
-#Sheet 2
+# Sheet 2
 1. Create a class called "Rectangle" with private width and height and Counter.
 Implement getters, setters, and a constructor , keep track of how many instances
 have been created. Add a static method to get the count.  -----> Rectangle_2
